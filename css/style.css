@@ -60,6 +60,10 @@ aside {
     font-size: 24pt;
   }
 
+  aside {
+    font-size: 8pt;
+  }
+
   div {
     width: 90vw;
   }
