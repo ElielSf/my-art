@@ -50,7 +50,7 @@ aside {
   color: white;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
   h2 {
     font-size: 26pt;
     text-align: center;
